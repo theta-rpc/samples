@@ -1,0 +1,28 @@
+{
+  "name": "theta-rpc-sample",
+  "version": "1.0.0",
+  "description": "Theta-rpc sample",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theta-rpc/samples.git"
+  },
+  "author": "4h7l",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theta-rpc/samples/issues"
+  },
+  "homepage": "https://github.com/theta-rpc/samples#readme",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "@theta-rpc/common": "^1.2.0",
+    "@theta-rpc/core": "^1.2.0",
+    "@theta-rpc/http-transport": "^1.2.0"
+  }
+}

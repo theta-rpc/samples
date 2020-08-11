@@ -1,0 +1,8 @@
+node_modules/
+
+dist/
+
+.idea/
+.projectile
+
+lerna-debug.json
