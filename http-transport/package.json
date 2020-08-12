@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/theta-rpc/samples#readme",
   "devDependencies": {
-    "typescript": "^3.9.7"
+    "typescript": "3.9.7"
   },
   "dependencies": {
     "@theta-rpc/common": "^1.2.0",
